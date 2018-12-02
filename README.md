@@ -2,6 +2,6 @@
 
 My attempt to solve the 2018 Advent of Code with a variety of languages.
 
-| Day                    | Challenge  | Language(s) |
-| -----------------------| -----------| ------------|
-| 1: Chronal Calibration | 1          | Python      | 
+| Day                    | Challenge(s)| Language(s) |
+| -----------------------| ------------| ------------|
+| 1: Chronal Calibration | 1,2         | Python      | 
