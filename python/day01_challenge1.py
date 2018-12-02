@@ -2,7 +2,7 @@
 import os.path
 
 
-INPUT_FILE = "day01_challenge1.txt"
+INPUT_FILE = "day01.txt"
 
 
 def open_input() -> str:
