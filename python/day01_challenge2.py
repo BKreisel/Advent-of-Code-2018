@@ -1,29 +1,21 @@
-# Day 01
-import os.path
+from util import read_input
 
-INPUT_FILE = "day01.txt"
-
-
-def open_input() -> str:
-    project_dir = os.path.split(os.path.split(os.path.abspath(__file__))[0])[0]
-    input_path = os.path.join(project_dir, "input", INPUT_FILE)
-    return open(input_path, "r")
+DAY = 1
 
 
 def main():
     frequency: int = 0
     known_frequencies = set()
     while True:
-        with open_input() as lines:
-            for line in lines:
-                frequency += parse_frequency_change(line)
-                if frequency in known_frequencies:
-                    print(f"Duplicated Frequency: {frequency}")
-                    return
-                known_frequencies.add(frequency)
+        for line in read_input(DAY):
+            frequency += change_frequency(line)
+            if frequency in known_frequencies:
+                print(f"Duplicated Frequency: {frequency}")
+                return
+            known_frequencies.add(frequency)
 
 
-def parse_frequency_change(line: str) -> int:
+def change_frequency(line: str) -> int:
     delta = int(line[1:])
     if line[0] == "+":
         return delta
