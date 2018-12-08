@@ -6,4 +6,5 @@ My attempt to solve the 2018 Advent of Code with a variety of languages.
 | --------------------------------------------------| ------------| ----------------------------------------|
 | 1: Chronal Calibration                            | 1,2         | Python                                  | 
 | 2: Inventory Management System                    | 1,2         | Python                                  | 
-| 3: No Matter How You Slice It                     | 1           | Python                                  | 
+| 3: No Matter How You Slice It                     | 1,2         | Python                                  | 
+| 4: Repose Record                                  | 1,2         | Python                                  | 
