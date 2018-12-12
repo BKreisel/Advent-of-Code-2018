@@ -9,4 +9,3 @@ My attempt to solve the 2018 Advent of Code with a variety of languages.
 | 3: No Matter How You Slice It                     | 1,2         | Python                                  | 
 | 4: Repose Record                                  | 1,2         | Python                                  | 
 | 5: Alchemical Reduction                           | 1,2         | Python                                  | 
-| 6: Chronal Coordinates                            | 1           | Python                                  |
