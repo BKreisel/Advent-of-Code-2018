@@ -10,3 +10,4 @@ My attempt to solve the 2018 Advent of Code with a variety of languages.
 | 4: Repose Record                                  | 1,2         | Python                                  | 
 | 5: Alchemical Reduction                           | 1,2         | Python                                  | 
 | 6: Chronal Coordinates                            | 1,2         | Python                                  |
+| 7: The Sum of Its Parts                           | 1,2         | Python                                  |
