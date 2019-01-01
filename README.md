@@ -13,3 +13,4 @@ My attempt to solve the 2018 Advent of Code with a variety of languages.
 | 7: The Sum of Its Parts                           | 1,2         | Python                                  |
 | 8: Memory Maneuver                                | 1,2         | Python                                  |
 | 9: Marble Mania                                   | 1,2         | Python                                  |
+| 10: The Stars Align                               | 1,2         | Python                                  |
